@@ -1,0 +1,4 @@
+cd /path/to/your/v0-project
+git remote set-url origin https://github.com/itomrakesh7-afk/kanglei artificial intelligence.git
+cd /path/to/your/v0-project
+git push origin master
